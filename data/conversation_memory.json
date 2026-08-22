@@ -1,0 +1,592 @@
+[
+  {
+    "role": "user",
+    "content": "c# la gi?",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "C# là ngôn ngữ lập trình được phát triển bởi Microsoft, được sử dụng rộng rãi trong phát triển phần mềm Windows, web và các hệ thống di động.\n\nTài liệu không cung cấp đủ thông tin để trả lời câu hỏi này.",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "c# la gi",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "C# là ngôn ngữ lập trình được phát triển bởi Microsoft, được sử dụng rộng rãi trong phát triển phần mềm Windows, web và các hệ thống di động.",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "nó la gi?",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "C# là ngôn ngữ lập trình được phát triển bởi Microsoft, được sử dụng rộng rãi trong phát triển phần mềm Windows, web và các hệ thống di động.",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "ứng dụng của nó la gi?",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi có thể trả lời câu hỏi \"Ứng dụng của C# la gi?\" dựa trên RAG CONTEXT.\n\nỨng dụng của C# là Console.",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "c# la gi",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "C# là ngôn ngữ lập trình được phát triển bởi Microsoft, được sử dụng rộng rãi trong phát triển phần mềm Windows, web và các hệ thống di động.",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "c# la gi",
+    "entities": [
+      {
+        "mention": "c#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "C# là ngôn ngữ lập trình được phát triển bởi Microsoft, được sử dụng rộng rãi trong phát triển phần mềm Windows, web và các hệ thống di động.",
+    "entities": [
+      {
+        "mention": "c#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "c# la gi",
+    "entities": [
+      {
+        "mention": "c#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi có thể trả lời câu hỏi \"C# la gi\" dựa trên FACK CONTEXT và Document Context.\n\nC# là ngôn ngữ lập trình được phát triển bởi Microsoft, được sử dụng rộng rãi trong phát triển phần mềm Windows, web và các hệ thống di động.\n\n(Về FACK CONTEXT, FACK 1 và FACK 2 cung cấp thông tin về C# như một ngôn ngữ lập trình và một ngôn ngữ hướng đối tượng. FACK 4 cung cấp thông tin về business rule của C#.)\n\n(Về Document Context, CHUNK 1 cung cấp thông tin về C# như một ngôn ngữ lập trình, trong khi CHUNK 2 cung cấp thông tin về .NET và các ngôn ngữ lập trình khác sử dụng cùng một IDE.)\n\nTài liệu không cung cấp đủ thông tin để trả lời câu hỏi \"Ứng dụng của C# la gi?\"",
+    "entities": [
+      {
+        "mention": "c#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "c# la gi",
+    "entities": [
+      {
+        "mention": "c#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "C# là ngôn ngữ lập trình được phát triển bởi Microsoft, được sử dụng rộng rãi trong phát triển phần mềm Windows, web và các hệ thống di động.",
+    "entities": [
+      {
+        "mention": "c#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "c# la gi",
+    "entities": []
+  },
+  {
+    "role": "assistant",
+    "content": "Dựa trên Conversation Memory và RAG Context, tôi có thể trả lời câu hỏi \"C# là gì?\" như sau:\n\nC# là ngôn ngữ lập trình được phát triển bởi Microsoft, được sử dụng rộng rãi trong phát triển phần mềm Windows, web và các hệ thống di động.",
+    "entities": []
+  },
+  {
+    "role": "user",
+    "content": "c# la gi?",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "C# là ngôn ngữ lập trình được phát triển bởi Microsoft, được sử dụng rộng rãi trong phát triển phần mềm Windows, web và các hệ thống di động.",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "c# la gi",
+    "entities": []
+  },
+  {
+    "role": "assistant",
+    "content": "Dựa trên Conversation Memory và Document Context, tôi có thể trả lời câu hỏi \"Ứng dụng của C# la gi?\" như sau:\n\nC# là ngôn ngữ lập trình được phát triển bởi Microsoft, được sử dụng rộng rãi trong phát triển phần mềm Windows, web và các hệ thống di động. Microsoft đã xác nhận khả năng của C# cần thiết cho những người lập trình, và ngôn ngữ này đã trở thành một phần quan trọng trong nền tảng phát triển .NET.\n\nNgoài ra, C# cũng được sử dụng trong phát triển các ứng dụng di động và các hệ thống di động khác. Nó cung cấp các đặc tính như ngôn ngữ hướng đối tượng, lớp Tester nạp chồng hai phương thức Triple(), và các phương thức nhận tham số nguyên int và số nguyên long.\n\nTóm lại, C# là một ngôn ngữ lập trình mạnh mẽ và phổ biến, được sử dụng rộng rãi trong nhiều lĩnh vực phát triển phần mềm.",
+    "entities": []
+  },
+  {
+    "role": "user",
+    "content": "c# la gi",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "Tôi có thể trả lời câu hỏi \"c# la gi\" dựa trên FACK CONTEXT và Document Context.\n\nC# là ngôn ngữ lập trình được phát triển bởi Microsoft, được sử dụng rộng rãi trong phát triển phần mềm Windows, web và các hệ thống di động.",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "c# la gi",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "Dựa trên FACK CONTEXT và Document Context, tôi có thể trả lời câu hỏi \"c# la gi\" như sau:\n\nC# là ngôn ngữ lập trình được phát triển bởi Microsoft.",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "c# la gi",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "Dựa trên FACK CONTEXT và Document Context, tôi có thể trả lời câu hỏi \"c# la gi\" như sau:\n\nC# là ngôn ngữ lập trình được phát triển bởi Microsoft.\n\nTheo FACK 1, C# là ngôn ngữ lập trình được phát triển bởi Microsoft.\n\nTheo FACK 2, C# là ngôn ngữ hướng đối tượng.\n\nTheo FACK 3, C# được sử dụng trong các câu lệnh SQL như SELECT * FROM Table WHERE Column = @Value.\n\nTheo FACK 4, C# có đặc điểm là lớp Tester nạp chồng hai phương thức Triple(), một phương thức nhận tham số nguyên int, phương thức còn lại nhận tham số là số nguyên long.\n\nTheo Document Context, C# là một phần quan trọng của nền tảng .NET, được sử dụng rộng rãi trong phát triển phần mềm Windows, web và các hệ thống di động.\n\nTóm lại, C# là một ngôn ngữ lập trình mạnh mẽ và phổ biến, được sử dụng rộng rãi trong nhiều lĩnh vực phát triển phần mềm.",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "c# la gi?",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "Dựa trên FACK CONTEXT và Document Context, tôi có thể trả lời câu hỏi \"c# la gi\" như sau:\n\nC# là ngôn ngữ lập trình được phát triển bởi Microsoft.\n\nTheo FACK 1, C# là ngôn ngữ lập trình được phát triển bởi Microsoft.\n\nTheo FACK 2, C# là ngôn ngữ hướng đối tượng.\n\nTheo FACK 3, C# được sử dụng trong các câu lệnh SQL như SELECT * FROM Table WHERE Column = @Value.\n\nTheo FACK 4, C# có đặc điểm là lớp Tester nạp chồng hai phương thức Triple(), một phương thức nhận tham số nguyên int, phương thức còn lại nhận tham số là số nguyên long.\n\nTheo Document Context, C# là một phần quan trọng của nền tảng .NET, được sử dụng rộng rãi trong phát triển phần mềm Windows, web và các hệ thống di động.\n\nTóm lại, C# là một ngôn ngữ lập trình mạnh mẽ và phổ biến, được sử dụng rộng rãi trong nhiều lĩnh vực phát triển phần mềm.",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "c# la gi?",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "Dựa trên FACK CONTEXT và Document Context, tôi có thể trả lời câu hỏi \"c# la gi\" như sau:\n\nC# là ngôn ngữ lập trình được phát triển bởi Microsoft.\n\nTheo FACK 1, C# là ngôn ngữ lập trình được phát triển bởi Microsoft.\n\nTheo FACK 2, C# là ngôn ngữ hướng đối tượng.\n\nTheo FACK 3, C# được sử dụng trong các câu lệnh SQL như SELECT * FROM Table WHERE Column = @Value.\n\nTheo FACK 4, C# có đặc điểm là lớp Tester nạp chồng hai phương thức Triple(), một phương thức nhận tham số nguyên int, phương thức còn lại nhận tham số là số nguyên long.\n\nTheo Document Context, C# là một phần quan trọng của nền tảng .NET, được sử dụng rộng rãi trong phát triển phần mềm Windows, web và các hệ thống di động.\n\nTóm lại, C# là một ngôn ngữ lập trình mạnh mẽ và phổ biến, được sử dụng rộng rãi trong nhiều lĩnh vực phát triển phần mềm.",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "c# la gi",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "Dựa trên FACK CONTEXT và Document Context, tôi có thể trả lời câu hỏi \"c# la gi\" như sau:\n\nC# là ngôn ngữ lập trình được phát triển bởi Microsoft.\n\nTheo FACK 1, C# là ngôn ngữ lập trình được phát triển bởi Microsoft.\n\nTheo FACK 2, C# là ngôn ngữ hướng đối tượng.\n\nTheo FACK 3, C# được sử dụng trong các câu lệnh SQL như SELECT * FROM Table WHERE Column = @Value.\n\nTheo FACK 4, C# có đặc điểm là lớp Tester nạp chồng hai phương thức Triple(), một phương thức nhận tham số nguyên int, phương thức còn lại nhận tham số là số nguyên long.\n\nTheo Document Context, C# là một phần quan trọng của nền tảng .NET, được sử dụng rộng rãi trong phát triển phần mềm Windows, web và các hệ thống di động.\n\nTóm lại, C# là một ngôn ngữ lập trình mạnh mẽ và phổ biến, được sử dụng rộng rãi trong nhiều lĩnh vực phát triển phần mềm.\n\nVậy, câu trả lời cho câu hỏi \"c# la gi\" là: C# là ngôn ngữ lập trình được phát triển bởi Microsoft, được sử dụng rộng rãi trong phát triển phần mềm Windows, web và các hệ thống di động.",
+    "entities": [
+      {
+        "mention": "C#",
+        "type": "PROGRAMMING_LANGUAGE",
+        "entity_id": "c",
+        "canonical_name": "C#",
+        "matched_alias": "C#",
+        "domains": [
+          "programming-language"
+        ],
+        "sources": [
+          "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+        ]
+      }
+    ]
+  }
+]

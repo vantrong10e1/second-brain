@@ -1,0 +1,153 @@
+{
+  "claude-code": {
+    "canonical_name": "Claude Code",
+    "aliases": [
+      "Claude Code",
+      "claude code"
+    ],
+    "domains": [
+      "ai",
+      "owner",
+      "programming-language"
+    ],
+    "sources": [
+      "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\ai\\claude.md",
+      "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\owner\\about-owner.md",
+      "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\java.md"
+    ]
+  },
+  "skill": {
+    "canonical_name": "Skill",
+    "aliases": [
+      "Skill",
+      "skill",
+      "skills"
+    ],
+    "domains": [
+      "ai"
+    ],
+    "sources": [
+      "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\ai\\claude.md"
+    ]
+  },
+  "mcp": {
+    "canonical_name": "MCP",
+    "aliases": [
+      "MCP",
+      "mcp",
+      "mcps"
+    ],
+    "domains": [
+      "ai"
+    ],
+    "sources": [
+      "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\ai\\claude.md"
+    ]
+  },
+  "claude": {
+    "canonical_name": "Claude",
+    "aliases": [
+      "Claude",
+      "claude",
+      "claude.ai"
+    ],
+    "domains": [
+      "ai"
+    ],
+    "sources": [
+      "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\ai\\claude.md"
+    ]
+  },
+  "rag": {
+    "canonical_name": "RAG",
+    "aliases": [
+      "RAG",
+      "RAG-LLM"
+    ],
+    "domains": [
+      "owner"
+    ],
+    "sources": [
+      "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\owner\\about-owner.md"
+    ]
+  },
+  "c": {
+    "canonical_name": "C#",
+    "aliases": [
+      "C#",
+      "c#",
+      "C Sharp",
+      "c sharp",
+      "csharp"
+    ],
+    "domains": [
+      "programming-language"
+    ],
+    "sources": [
+      "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+    ]
+  },
+  "net": {
+    "canonical_name": ".NET",
+    "aliases": [
+      ".NET",
+      "net",
+      "dot net",
+      "dotnet"
+    ],
+    "domains": [
+      "programming-language"
+    ],
+    "sources": [
+      "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+    ]
+  },
+  "microsoft": {
+    "canonical_name": "Microsoft",
+    "aliases": [
+      "Microsoft",
+      "microsoft",
+      "MS",
+      "ms"
+    ],
+    "domains": [
+      "programming-language"
+    ],
+    "sources": [
+      "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md"
+    ]
+  },
+  "java": {
+    "canonical_name": "Java",
+    "aliases": [
+      "Java",
+      "java",
+      "JVM",
+      "jvm",
+      "JDK",
+      "Android"
+    ],
+    "domains": [
+      "programming-language"
+    ],
+    "sources": [
+      "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md",
+      "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\java.md"
+    ]
+  },
+  "object-oriented-programming": {
+    "canonical_name": "Object-oriented Programming",
+    "aliases": [
+      "Object-oriented Programming",
+      "OOP",
+      "Lập trình hướng đối tượng",
+      "Programming paradigm"
+    ],
+    "domains": [
+      "programming-language"
+    ],
+    "sources": [
+      "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\java.md"
+    ]
+  }
+}

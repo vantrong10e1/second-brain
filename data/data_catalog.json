@@ -1,0 +1,46 @@
+[
+  {
+    "source": "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\ai\\claude.md",
+    "name": "claude.md",
+    "file_type": "md",
+    "domain": [
+      "ai"
+    ],
+    "chunk_count": 156,
+    "status": "active",
+    "last_updated": "2026-08-15T07:47:02"
+  },
+  {
+    "source": "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\owner\\about-owner.md",
+    "name": "about-owner.md",
+    "file_type": "md",
+    "domain": [
+      "owner"
+    ],
+    "chunk_count": 1,
+    "status": "active",
+    "last_updated": "2026-08-15T07:47:02"
+  },
+  {
+    "source": "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\c#.md",
+    "name": "c#.md",
+    "file_type": "md",
+    "domain": [
+      "programming-language"
+    ],
+    "chunk_count": 2450,
+    "status": "active",
+    "last_updated": "2026-08-15T07:47:02"
+  },
+  {
+    "source": "C:\\Users\\email\\OneDrive\\Documents\\second-brain\\raw\\programming-language\\java.md",
+    "name": "java.md",
+    "file_type": "md",
+    "domain": [
+      "programming-language"
+    ],
+    "chunk_count": 1291,
+    "status": "active",
+    "last_updated": "2026-08-15T07:47:02"
+  }
+]
