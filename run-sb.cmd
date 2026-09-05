@@ -10,7 +10,7 @@ cls
 echo.
 echo Chon chuc nang su dung:
 echo.
-echo 1. Install necessary files (Hien dang sua chua)
+echo 1. Install necessary files
 echo 2. Ingest documents
 echo 3. Maintain system
 echo 4. Run RAG
